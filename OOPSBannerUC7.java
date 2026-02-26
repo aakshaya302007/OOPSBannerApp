@@ -20,14 +20,14 @@ public class OOPSBannerUC7 {
     public static CharacterPatternMap[] createCharacterPatternMaps() {
 
         String[] oPattern = {
-                "  ***  ",
+                "   ***  ",
                 " **   ** ",
                 "**     **",
                 "**     **",
                 "**     **",
                 "**     **",
                 " **   ** ",
-                "  ***  "
+                "   ***  "
         };
 
         String[] pPattern = {
